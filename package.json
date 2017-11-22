@@ -1,5 +1,5 @@
 {
-  "name": "simple-id-generator",
+  "name": "@coig/simple-id-generator",
   "version": "0.0.1",
   "description": "Simple id generator",
   "main": "index.js",
@@ -10,6 +10,10 @@
     "id",
     "generator"
   ],
+  "repository" : {
+    "type" : "git", 
+    "url" : "https://github.com/sleaz0id/simple-id-generator.git"
+  },
   "author": "Mateusz Staszczyk",
   "license": "MIT"
 }
