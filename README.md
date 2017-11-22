@@ -5,7 +5,7 @@
 ## Usage example
 
 ```js
-const generator = require('coig-id-generator');
+const generator = require('simple-id-generator');
 
 const idGen = generator();
 console.log(idGen.next().value); // returns 0
